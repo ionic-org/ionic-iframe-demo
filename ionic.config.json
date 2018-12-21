@@ -1,5 +1,7 @@
 {
   "name": "ionic-iframe-demo",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
